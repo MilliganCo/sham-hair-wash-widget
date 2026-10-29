@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Original simple droplet geometry authored for this source snapshot. -->
+    <path
+        android:fillColor="#081108"
+        android:pathData="M0,0H24V24H0Z" />
+    <path
+        android:fillColor="#7DFF9B"
+        android:pathData="M12,2C10,6 5,10 5,14C5,18 8,21 12,21C16,21 19,18 19,14C19,10 14,6 12,2Z" />
+    <path
+        android:fillColor="#081108"
+        android:pathData="M8,13C8,16 9,18 12,18V16C10.5,16 10,15 10,13Z" />
+</vector>

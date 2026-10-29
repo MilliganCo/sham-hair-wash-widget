@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_ascii_header">+-- SHAM.LOG --+</string>
+    <string name="widget_title_default">HEAD.WASH</string>
+    <string name="widget_status_default">run setup in app</string>
+    <string name="widget_next_default">next_wash :: pending</string>
+    <string name="widget_hint_default">tap to open app</string>
+    <string name="widget_description">Terminal widget for the hair wash reminder</string>
+    <string name="widget_status_setup">run setup in app</string>
+    <string name="widget_next_setup">next_wash :: unknown</string>
+    <string name="widget_hint_setup">set last wash date + interval</string>
+    <string name="widget_status_invalid">bad date format</string>
+    <string name="widget_next_invalid">open app and save again</string>
+    <string name="widget_hint_invalid">expected yyyy-MM-dd</string>
+    <string name="widget_next_date_line">next_wash :: %1$s</string>
+    <string name="widget_status_today">TODAY</string>
+    <string name="widget_status_tomorrow">TOMORROW</string>
+    <string name="widget_status_in_days">IN %1$d DAYS</string>
+    <string name="widget_status_overdue_one">LATE BY 1 DAY</string>
+    <string name="widget_status_overdue">LATE BY %1$d DAYS</string>
+</resources>
